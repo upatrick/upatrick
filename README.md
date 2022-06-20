@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Patrick 👋
 
 - 💻 Estudando HTML, CSS e JavaScript
-- 📫 Contate-me no email: panikubr@gmail.com / patrickdutra100@hotmail.com 
+- 📫 Contate-me no email: panikubr@gmail.com / patrickdutra100@hotmail.com  
 
 <div>
    <a href="htps://github.com/upatrick">
