@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Patrick 👋
 
-- 💻 Estudando HTML, CSS, JavaScript, TypeScript e SQL
+- 💻 Estudando HTML, CSS, JavaScript, TypeScript e SQL.
 - 📫 Contate-me no email: me.patrick.dutra@gmail.com / patrickdutra100@hotmail.com  
 
 <div>
