@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Patrick 👋
 
-- 💻 Estudando HTML, CSS, JavaScript, TypeScript e React.
-- 📫 Contate-me no email: me.patrick.dutra@gmail.com / patrickdutra100@hotmail.com  
+- 💻 Studying HTML, CSS, JavaScript, TypeScript e React.
+- 📫 Contact me on email: patrickdutra100@hotmail.com  
 
 <div>
   <a href="htps://github.com/upatrick">
