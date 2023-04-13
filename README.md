@@ -11,11 +11,11 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Patrick-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Patrick-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Patrick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Patrick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Patrick-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Patrick-JS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+  <img align="center" alt="Patrick-TS" height="40" width="40" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-512x512-yh0yu3ta.png">
+  <img align="center" alt="Patrick-HTML" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
+  <img align="center" alt="Patrick-CSS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
+   <img align="center" alt="Patrick-REACT" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
   <img align="right" alt="Patrick-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880182971771006986/987746665773539378/picasion.com_275547adf937ee74600be754c45c5b80.gif">
 </div>
   
