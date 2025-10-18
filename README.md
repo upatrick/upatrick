@@ -62,12 +62,6 @@ Também possuo experiência com Docker para containerização, Vercel para deplo
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=upatrick&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/upatrick?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
----
 
 ⭐ **Obrigado pela visita!** Se gostou do meu perfil, dê uma ⭐ nos meus repositórios que você achar interessante!
 
