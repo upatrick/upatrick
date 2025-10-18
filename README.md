@@ -1,5 +1,3 @@
-# 👋 Olá! Eu sou o Patrick Dutra
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Estudante+de+Tecnologia)](https://git.io/typing-svg)
 
 ### 🚀 Sobre Mim
