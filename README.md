@@ -1,9 +1,11 @@
 # 👋 Olá! Eu sou o Patrick Dutra
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-End;Estudante+de+Tecnologia;Apaixonado+por+React+%26+TypeScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Estudante+de+Tecnologia)](https://git.io/typing-svg)
 
 ### 🚀 Sobre Mim
-Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis. Atualmente focado em tecnologias modernas como **React**, **TypeScript** e **Next.js**. Sempre buscando aprender e contribuir para a comunidade open-source.
+
+Sou um desenvolvedor full stack apaixonado por criar soluções web completas e eficientes. Trabalho com React, TypeScript e Next.js no front-end, e com Node.js, Express e bancos de dados SQL/NoSQL no back-end.
+Também possuo experiência com Docker para containerização, Vercel para deploys otimizados e OAuth2 para autenticação segura.
 
 - 💻 Estudando: HTML, CSS, JavaScript, TypeScript e React
 - 🌱 Aprendendo atualmente: Node.js e desenvolvimento full-stack
@@ -23,32 +25,14 @@ Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=upatrick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upatrick&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-### 🌟 Destaques dos Projetos
-
-<div align="center">
-  <a href="https://github.com/upatrick/portfolio-react">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upatrick&repo=portfolio-react&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/upatrick/ecommerce-nextjs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upatrick&repo=ecommerce-nextjs&theme=tokyonight" />
-  </a>
-</div>
-
----
 
 ### 🤝 Vamos Conectar!
 
@@ -71,9 +55,9 @@ Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis
 
 ### 🎯 Atualmente
 
-- 🔭 Trabalhando em projetos pessoais com React e TypeScript
-- 🌱 Aprendendo sobre arquitetura de software e melhores práticas
-- 💬 Pergunte-me sobre desenvolvimento front-end, React ou JavaScript
+- 🔭 Trabalhando em projetos full-stack com Node.js e React
+- 🌱 Aprendendo sobre arquitetura de software, APIs REST e bancos de dados
+- 💬 Pergunte-me sobre desenvolvimento full-stack, back-end ou JavaScript
 - ⚡ Curiosidade: Adoro resolver problemas complexos com código limpo
 
 ---
