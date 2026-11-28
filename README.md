@@ -4,8 +4,9 @@
 
 Sou desenvolvedor Full-Stack com formação em Gestão da Tecnologia da Informação. Minha jornada na área começou em 2023, na Johnson & Johnson, e desde então sigo evoluindo e construindo soluções que unem tecnologia e negócio.
 
-- ☁️ Aprendendo: computação em nuvem com AWS
 - 🎯 Objetivo: construir aplicações escaláveis e acessíveis
+- ☁️ Aprendendo: computação em nuvem com AWS
+- 💻 Portfólio: https://patrickdutra.com.br
 - 📫 Contato: patrickdutra100@hotmail.com
 
 ---
